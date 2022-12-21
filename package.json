@@ -1,0 +1,21 @@
+{
+  "name": "docsify-template",
+  "version": "1.0.0",
+  "description": "docsify模板工程",
+  "main": "index.js",
+  "scripts": {
+    "init": "docsify init ./",
+    "doc": "docsify serve ./",
+    "start": "docsify serve ./ --open",
+    "dev": "docsify serve ./ --open"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git@gitee.com:charlseW/docsify-template.git"
+  },
+  "devDependencies": {
+    "docsify-cli": "^4.4.3"
+  },
+  "author": "DavidWong",
+  "license": "ISC"
+}
